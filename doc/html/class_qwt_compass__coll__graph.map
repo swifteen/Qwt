@@ -1,0 +1,9 @@
+base referer
+rect $class_qwt_dial.html 289,175 358,202
+rect $class_qwt_dial_scale_draw.html 155,266 289,293
+rect $class_qwt_slider_base.html 247,85 357,111
+rect $class_qwt_dbl_range.html 250,7 354,34
+rect $class_qwt_scale_draw.html 106,175 215,202
+rect $class_qwt_di_map.html 7,85 93,111
+rect $class_qwt_scale_div.html 117,85 215,111
+rect $class_qwt_dial_needle.html 381,85 493,111

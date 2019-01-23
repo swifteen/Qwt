@@ -1,0 +1,5 @@
+base referer
+rect $class_qwt_scale_if.html 92,189 180,215
+rect $class_qwt_scale_draw.html 88,98 197,125
+rect $class_qwt_di_map.html 8,7 93,34
+rect $class_qwt_scale_div.html 117,7 216,34

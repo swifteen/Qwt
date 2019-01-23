@@ -1,0 +1,13 @@
+The cpuplot example shows how to use a couple of features that
+came new with Qwt 0.4.1/0.4.2
+
+1) Filled curves
+2) Display individual axis labels. 
+   Here an inverted time axis is shown.
+3) Enable/Disable plot items.
+4) Draw customized plot items, like a pie chart or a
+   curve drawing the area between 2 curves.
+5) Draw non Qwt items, by overloading QwtPlot::drawCanvas
+
+The example reads the cpu usage from /proc/stat and /proc/loadavg. 
+If they are not available on your OS it displays dummy values.

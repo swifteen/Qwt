@@ -1,0 +1,5 @@
+base referer
+rect $class_qwt_plot_picker.html 92,176 198,202
+rect $class_qwt_picker.html 104,98 186,125
+rect $class_qwt_event_pattern.html 8,8 130,34
+rect $class_qwt_picker_machine.html 154,8 288,34

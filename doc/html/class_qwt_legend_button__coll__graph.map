@@ -1,0 +1,4 @@
+base referer
+rect $class_qwt_push_button.html 8,98 122,125
+rect $class_qwt_legend_item.html 146,98 264,125
+rect $class_qwt_symbol.html 160,8 250,34

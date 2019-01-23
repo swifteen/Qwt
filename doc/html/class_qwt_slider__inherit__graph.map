@@ -1,0 +1,4 @@
+base referer
+rect $class_qwt_slider_base.html 7,82 117,109
+rect $class_qwt_dbl_range.html 10,8 114,34
+rect $class_qwt_scale_if.html 141,82 229,109

@@ -1,0 +1,3 @@
+base referer
+rect $class_qwt_dbl_range.html 8,7 112,34
+rect $class_qwt_arrow_button.html 136,7 256,34

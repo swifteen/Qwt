@@ -1,0 +1,14 @@
+base referer
+rect $class_qwt_plot_item.html 369,397 465,424
+rect $class_qwt_auto_scale.html 422,165 529,192
+rect $class_qwt_scale_div.html 426,8 525,34
+rect $class_qwt_scale_draw.html 194,114 303,141
+rect $class_qwt_grid.html 553,165 625,192
+rect $class_qwt_scale.html 7,216 87,242
+rect $class_qwt_di_map.html 206,8 291,34
+rect $class_qwt_text.html 13,114 82,141
+rect $class_qwt_legend.html 111,216 202,242
+rect $class_qwt_plot_layout.html 226,216 335,242
+rect $class_qwt_plot_canvas.html 359,216 474,242
+rect $class_qwt_plot_grid.html 387,565 481,592
+rect $class_qwt_plot_mapped_item.html 362,488 506,514

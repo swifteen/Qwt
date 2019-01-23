@@ -1,0 +1,8 @@
+base referer
+rect $class_qwt_curve.html 126,205 209,231
+rect $class_qwt_spline.html 7,98 90,125
+rect $class_qwt_data.html 114,98 189,125
+rect $class_qwt_symbol.html 213,98 303,125
+rect $class_qwt_plot_mapped_item.html 266,205 410,231
+rect $class_qwt_plot_item.html 327,98 423,125
+rect $class_qwt_plot.html 341,7 410,34

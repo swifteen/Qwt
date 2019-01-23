@@ -1,0 +1,4 @@
+base referer
+rect $class_qwt_spline.html 8,7 90,34
+rect $class_qwt_data.html 114,7 189,34
+rect $class_qwt_symbol.html 213,7 304,34

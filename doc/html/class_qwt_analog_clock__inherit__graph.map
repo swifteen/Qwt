@@ -1,0 +1,4 @@
+base referer
+rect $class_qwt_dial.html 33,157 102,184
+rect $class_qwt_slider_base.html 13,82 122,109
+rect $class_qwt_dbl_range.html 16,8 120,34

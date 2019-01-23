@@ -1,0 +1,4 @@
+base referer
+rect $class_qwt_grid.html 8,82 80,109
+rect $class_qwt_plot_mapped_item.html 104,82 248,109
+rect $class_qwt_plot_item.html 128,8 224,34

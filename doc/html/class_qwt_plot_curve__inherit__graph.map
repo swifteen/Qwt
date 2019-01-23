@@ -1,0 +1,4 @@
+base referer
+rect $class_qwt_curve.html 8,82 90,109
+rect $class_qwt_plot_mapped_item.html 114,82 258,109
+rect $class_qwt_plot_item.html 138,8 234,34
